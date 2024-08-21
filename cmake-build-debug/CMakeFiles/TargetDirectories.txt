@@ -1,3 +1,0 @@
-D:/CS-Diploma/Project1/cmake-build-debug/CMakeFiles/Project1.dir
-D:/CS-Diploma/Project1/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CS-Diploma/Project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
